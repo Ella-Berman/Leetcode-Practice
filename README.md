@@ -1,3 +1,3 @@
 # Leetcode Practice
 
-Repo to save leetcode solutions for technical interview prep. 
+Leetcode practice for technical interview prep. 
